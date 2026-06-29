@@ -108,38 +108,4 @@ Code,Procedure Name
 
 
 ## Next step I imported the file in PowerBI
-## Business Questions:
-Pricing Transparency & Fairness
-
-1. Which hospital charges the highest gross charge for the same CPT code — and how does their negotiated rate compare?
-2. For which procedures does the negotiated rate exceed the gross charge — and which payers are involved?
-3. How wide is the pricing spread (max vs min negotiated) for the same procedure across payers at each hospital?
-
-Payer & Plan Analysis
-
-4. Which payer consistently negotiates the lowest rates across all procedures?
-
-5. Which plan type (Medicare Advantage, Commercial, Managed Medicaid) gets the best discount off gross charge?
-
-6. Which hospital gives the deepest discount to cash-paying patients vs their best negotiated payer rate?
-Procedure-Level Insights
-
-7. Which CPT codes show the largest dollar difference in negotiated rates between hospitals — for the same payer?
-
-8. Which procedures have the most negotiating variability (highest standard deviation in negotiated rate)?
-
-9. How does each hospital's cash price compare to their lowest negotiated rate — is cash ever cheaper?
-Hospital Competitiveness
-
-10. Which hospital is the most expensive overall and which is most affordable — by median negotiated rate?
-
-
-
-
-
-Created a data model (star schema)
-
-
-
-
-Using DAX, calculated the KPI and metrics
+Read the report here: 
